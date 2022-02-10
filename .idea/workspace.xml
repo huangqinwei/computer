@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cce5b1f-b765-4d41-aff1-a09a953f040e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/fish-administration/target/" />
+    <ignored path="$PROJECT_DIR$/huang/target/" />
+    <ignored path="$PROJECT_DIR$/computer-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2121526651">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="45" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="3" />
+          <entry key="project.open.time.45" value="3" />
+          <entry key="project.open.time.47" value="3" />
+          <entry key="project.open.time.48" value="3" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.51" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="4" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="31" />
+          <entry key="html" value="6" />
+          <entry key="java" value="306" />
+          <entry key="js" value="39" />
+          <entry key="json" value="10" />
+          <entry key="jsp" value="3" />
+          <entry key="png" value="1" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="rnc" value="3" />
+          <entry key="ts" value="11" />
+          <entry key="vue" value="270" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="31" />
+          <entry key="HTML" value="6" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="306" />
+          <entry key="JSON" value="10" />
+          <entry key="JSP" value="3" />
+          <entry key="JavaScript" value="39" />
+          <entry key="Properties" value="1" />
+          <entry key="RNG Compact" value="3" />
+          <entry key="TypeScript" value="11" />
+          <entry key="Vue.js" value="270" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="html" value="184" />
+          <entry key="java" value="6824" />
+          <entry key="js" value="1052" />
+          <entry key="json" value="38" />
+          <entry key="properties" value="4" />
+          <entry key="vue" value="13788" />
+          <entry key="xml" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="184" />
+          <entry key="JAVA" value="6824" />
+          <entry key="JSON" value="38" />
+          <entry key="JavaScript" value="1052" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="4" />
+          <entry key="Vue.js" value="13788" />
+          <entry key="XML" value="61" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-704245509">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="319882560">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="java" value="77" />
+          <entry key="jsp" value="1" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="77" />
+          <entry key="JSP" value="1" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2717" />
+          <entry key="properties" value="15" />
+          <entry key="xml" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2717" />
+          <entry key="Properties" value="15" />
+          <entry key="XML" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="418924619">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Fish" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fill</find>
+      <find>imgSrc</find>
+      <find>margin</find>
+      <find>QueryWrapper</find>
+      <find>fishBox</find>
+      <find>wrapper.eq</find>
+      <find>update</find>
+      <find>up</find>
+      <find>openDelConfirm</find>
+      <find>退回shan</find>
+      <find>删除</find>
+      <find>deleteFishById</find>
+      <find>新增</find>
+      <find>请输入内容</find>
+      <find>labelPosition</find>
+      <find>toArticleList</find>
+      <find>delete</find>
+      <find>circleUrl</find>
+      <find>用户</find>
+      <find>this.comment</find>
+      <find>handlePictureCardPreview</find>
+      <find>data</find>
+      <find>编辑</find>
+      <find>this.userName=localStorage.getItem(&quot;userName&quot;);</find>
+      <find>localStorage.getItem(&quot;userName&quot;)</find>
+      <find>updataArticleById</find>
+      <find>fish</find>
+      <find>toJSONString</find>
+      <find>JSONObject</find>
+      <find>@Override</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fish-vue/src/views/fish/AddAndUpdate.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/article/AddAndUpdate.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/fish/ListFish.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/article/ArticleDetails.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/article/ListArticle.vue" />
+        <option value="$PROJECT_DIR$/fish-administration/src/main/java/com/huang/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/fish-administration/src/main/java/com/huang/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/fish-administration/src/main/java/com/huang/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/article/ExamineArticle.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/fish/ExamineFish.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/Index2.vue" />
+        <option value="$PROJECT_DIR$/fish-vue/src/views/Main2.vue" />
+        <option value="$PROJECT_DIR$/computer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/vo/TestVo.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Stop.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/dao/StopDao.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/StopService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/StopServiceImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Run.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/WebApplication.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/test/java/com/huang/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/huang/src/main/java/com/WebApplication.java" />
+        <option value="$PROJECT_DIR$/huang/src/test/java/com/huang/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/huang/src/main/java/com/huang/core/PubUtils.java" />
+        <option value="$PROJECT_DIR$/huang/src/main/java/com/huang/http_request/service/HttpRequestService.java" />
+        <option value="$PROJECT_DIR$/huang/pom.xml" />
+        <option value="$PROJECT_DIR$/huang/src/main/java/com/huang/http_request/service/impl/HttpRequestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/vo/RequestVo.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/LogicGatesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/ArithmeticAndLogicUnitService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/ArithmeticAndLogicUnitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/RsTrigger.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/dao/RsTriggerDao.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/RsTriggerService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/RsTriggerServicrImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Trigger.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/dao/TriggerDao.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/TriggerService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/TriggerServicrImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/ComputerProjectTriggerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/ComputerProjectTriggerService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/PowerSupply.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/LedLamp.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Diode.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/LogicGatesService.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/LoginGates.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Ram.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/utils/LoginGateUtils.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Clock.java" />
+        <option value="$PROJECT_DIR$/computer-service/src/main/java/com/huang/controller/TestController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDEA\Maven\apache-maven-3.6.0\maven-repo" />
+        <option name="mavenHome" value="D:/IDEA/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\IDEA\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fish-vue/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="huang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Computer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Computer" type="462c0819:PsiDirectoryNode" />
+              <item name="computer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="huang" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Pu&#9;FILE&#9;file://D:/huang/Computer/huang/src/main/java/com/huang/core/PubUtils.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644458324038" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Fish\fish-vue\static" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\assets\js" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\assets\images" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\assets" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\views\fish" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huang.core" />
+      <recent name="com.huang.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\huang\Computer\huang\src\main\resources" />
+      <recent name="D:\huang\Fish" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\views\article" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\assets\images" />
+      <recent name="D:\IdeaProjects\Fish\fish-vue\src\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebApplication">
+    <configuration name="DemoApplicationTests.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.date" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="date" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.like" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="like" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="computer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huang" />
+      <option name="MAIN_CLASS_NAME" value="com.huang.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuangApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="huang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.HuangApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="computer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="JUnit.DemoApplicationTests.like" />
+      <item itemvalue="JUnit.DemoApplicationTests.save" />
+      <item itemvalue="JUnit.DemoApplicationTests.date" />
+      <item itemvalue="JUnit.DemoApplicationTests.Test" />
+      <item itemvalue="Spring Boot.HuangApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HuangApplication" />
+        <item itemvalue="JUnit.DemoApplicationTests.Test" />
+        <item itemvalue="JUnit.DemoApplicationTests.date" />
+        <item itemvalue="JUnit.DemoApplicationTests.like" />
+        <item itemvalue="JUnit.DemoApplicationTests.save" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cce5b1f-b765-4d41-aff1-a09a953f040e" name="Default Changelist" comment="" />
+      <created>1617207555008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617207555008</updated>
+      <workItem from="1617207563740" duration="1157000" />
+      <workItem from="1617211345576" duration="117000" />
+      <workItem from="1617291868540" duration="1103000" />
+      <workItem from="1617427961888" duration="224000" />
+      <workItem from="1617428258849" duration="290000" />
+      <workItem from="1617429975734" duration="134000" />
+      <workItem from="1617430472473" duration="24486000" />
+      <workItem from="1617515731698" duration="22438000" />
+      <workItem from="1617616916205" duration="5135000" />
+      <workItem from="1618138040807" duration="11262000" />
+      <workItem from="1618319856940" duration="5768000" />
+      <workItem from="1618330351849" duration="3273000" />
+      <workItem from="1618409164834" duration="8642000" />
+      <workItem from="1618497544269" duration="586000" />
+      <workItem from="1618656027454" duration="8509000" />
+      <workItem from="1618732205314" duration="7900000" />
+      <workItem from="1619244986069" duration="1280000" />
+      <workItem from="1619365238750" duration="3980000" />
+      <workItem from="1619451873678" duration="2204000" />
+      <workItem from="1619539678645" duration="6286000" />
+      <workItem from="1619627823492" duration="1376000" />
+      <workItem from="1619630335186" duration="2774000" />
+      <workItem from="1619786997836" duration="10000" />
+      <workItem from="1619937634070" duration="15915000" />
+      <workItem from="1619961977583" duration="11000" />
+      <workItem from="1620024637861" duration="13183000" />
+      <workItem from="1620098001657" duration="10000" />
+      <workItem from="1620106354127" duration="13853000" />
+      <workItem from="1620129344556" duration="600000" />
+      <workItem from="1620199760837" duration="4158000" />
+      <workItem from="1620224568435" duration="5605000" />
+      <workItem from="1620309893340" duration="5279000" />
+      <workItem from="1620392349647" duration="8792000" />
+      <workItem from="1620543486744" duration="2997000" />
+      <workItem from="1620631246415" duration="4176000" />
+      <workItem from="1620726310163" duration="590000" />
+      <workItem from="1620797290600" duration="21347000" />
+      <workItem from="1620883827373" duration="14023000" />
+      <workItem from="1620995100657" duration="9876000" />
+      <workItem from="1621056525807" duration="7202000" />
+      <workItem from="1621228478505" duration="2810000" />
+      <workItem from="1621233210190" duration="17954000" />
+      <workItem from="1621405756128" duration="2382000" />
+      <workItem from="1621430671947" duration="9882000" />
+      <workItem from="1621473158959" duration="5828000" />
+      <workItem from="1621510836592" duration="17568000" />
+      <workItem from="1621561039267" duration="12066000" />
+      <workItem from="1621601738323" duration="8885000" />
+      <workItem from="1621620638379" duration="1249000" />
+      <workItem from="1639357164934" duration="103000" />
+      <workItem from="1639388494985" duration="133000" />
+      <workItem from="1639388990781" duration="189000" />
+      <workItem from="1639441274747" duration="2000" />
+      <workItem from="1639448552967" duration="459000" />
+      <workItem from="1639528301330" duration="235000" />
+      <workItem from="1639528571551" duration="1593000" />
+      <workItem from="1639533423370" duration="22000" />
+      <workItem from="1639564720044" duration="5031000" />
+      <workItem from="1639575473534" duration="445000" />
+      <workItem from="1639614967139" duration="85000" />
+      <workItem from="1639790809578" duration="1021000" />
+      <workItem from="1639792110431" duration="15079000" />
+      <workItem from="1639959352857" duration="7000" />
+      <workItem from="1640506485446" duration="2881000" />
+      <workItem from="1640564678120" duration="273000" />
+      <workItem from="1641346981636" duration="42000" />
+      <workItem from="1641347069516" duration="1005000" />
+      <workItem from="1642906028136" duration="141000" />
+      <workItem from="1644458254214" duration="90000" />
+      <workItem from="1644458379389" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 18m 02s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 18m 35s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 30m 56s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 31m 37s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 31m 55s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 33m 22s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 35m 24s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 37m 05s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 19h 40m 47s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoApplicationTests_Test - 2021.12.15 at 21h 44m 06s.xml">
+      <configuration name="DemoApplicationTests.Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="354651000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.24932976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009901" side_tool="true" weight="0.32573727" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.31683168" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" visible="true" weight="0.36350778" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49798927" weight="0.3493635" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32914925" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3493635" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5020107" side_tool="true" weight="0.30125523" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="8" visible="true" weight="0.21179625" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990099" visible="true" weight="0.23592493" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5009901" side_tool="true" weight="0.32573727" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.31683168" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.36350778" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49798927" weight="0.3493635" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32914925" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.35077792" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5020107" side_tool="true" weight="0.30125523" />
+      <window_info anchor="bottom" id="MyBatis Log" order="14" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.21179625" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/LogicGatesServiceImpl.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/controller/CommentController.java" />
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/po/Fish.java" />
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/init/Springapplicationinitializer.java" />
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/config/MyMvcConfig.java" />
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/controller/LoginLogController.java" />
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1-sources.jar!/org/junit/jupiter/api/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/resources/templates/login1.html" />
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/webapp/WEB-INF/view/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/init/Springapplicationinitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/com/baomidou/mybatis-plus-boot-starter/3.0.5/mybatis-plus-boot-starter-3.0.5-sources.jar!/com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Stop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/StopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/StopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/test/java/com/huang/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/test/java/com/huang/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="46" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/javafx-src.zip!/com/sun/javafx/binding/StringConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/org/springframework/boot/spring-boot-configuration-processor/2.4.3/spring-boot-configuration-processor-2.4.3-sources.jar!/org/springframework/boot/configurationprocessor/json/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/HuangApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="105" column="27" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/core/PubUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1577">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/vo/TestVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/vo/RequestVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/http_request/service/HttpRequestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huang/src/main/java/com/huang/http_request/service/impl/HttpRequestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/dao/StopDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/ArithmeticAndLogicUnitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/org/springframework/spring-context/5.3.4/spring-context-5.3.4-sources.jar!/org/springframework/scheduling/Trigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/dao/ComputerProjectTriggerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/ComputerProjectTriggerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/ArithmeticAndLogicUnitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/LedLamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Diode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/ComputerProjectTrigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/IDEA/Maven/apache-maven-3.6.0/maven-repo/org/springframework/spring-web/5.3.4/spring-web-5.3.4-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/LogicGatesServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="60" column="9" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/LogicGatesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/service/impl/ComputerProjectTriggerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/utils/LoginGateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Ram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/PowerSupply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_271/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="462" column="11" selection-start-line="462" selection-start-column="11" selection-end-line="462" selection-end-column="11" />
+          <folding>
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/po/Clock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/computer-service/src/main/java/com/huang/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>computer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
